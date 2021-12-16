@@ -1,0 +1,102 @@
+id,conference,title,year,authors,doi
+5174,IVI,Sybil Attack Detection through Global Topology Pattern Visualization,2010,"Lu, Aidong, Wang, Weichao, Dnyate, Abhishek, Hu, Xianlin",10.1057/ivs.2010.1
+5143,IVI,Interactive Wormhole Detection and Evaluation,2007,"Wang, Weichao, Lu, Aidong",10.1057/palgrave.ivs.9500144
+4477,Vis,Bluff: Interactively Deciphering Adversarial Attacks on Deep Neural Networks,2020,"Das, N., Park, H., Wang, Z. J., Hohman, F., Firstman, R., Rogers, E., Chau, D. H. P.",10.1109/VIS47514.2020.00061
+1835,PacificVis,Integrated visualization system for monitoring security in large-scale local area network,2007,"Mukosaka, S., Koike, H.",10.1109/APVIS.2007.329273
+1285,IV,A Visualization Approach for Frauds Detection in Financial Market,2009,"Huang, Mao Lin, Liang, Jie, Nguyen, Quang Vinh",10.1109/IV.2009.23
+1427,IV,A Visualisation Technique for the Identification of Security Threats in Networked Systems,2010,"Maple, C., Viduto, V.",10.1109/IV.2010.81
+3349,Vis,Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics,2020,"Ma, Y., Xie, T., Li, J., Maciejewski, R.",10.1109/TVCG.2019.2934631
+3832,IV,Adversarial Teaching Approach to Cybersecurity: A Mathematical Model Explains Why It Works Well,2020,"Servin, C., Kosheleva, O., Kreinovich, V.",10.1109/IV51561.2020.00058
+1567,IV,Pianola - Visualization of Multivariate Time-Series Security Event Data,2013,"Thomson, A., Graham, M., Kennedy, J.",10.1109/IV.2013.15
+4746,journal,Generating Adversarial Surfaces via Band-Limited Perturbations,2020,"Mariani, G., Cosmo, L., Bronstein, A. M., Rodola, E.",https://doi.org/10.1111/cgf.14083
+1748,IV,Visual Clustering of Spam Emails for DDoS Analysis,2011,"Huang, Mao Lin, Zhang, Jinson, Nguyen, Quang Vinh, Wang, Junhu",10.1109/IV.2011.41
+2688,VAST,VAST 2012 Mini-Challenge 2: Chart- and Matrix-based approach to network operations forensics,2012,"Hildenbrand, Jan, Paval, Daniel-Ionut, Thapa, Prakash, Rohrdantz, Christian, Mansmann, Florian, Bertini, Enrico, Schreck, Tobias",10.1109/VAST.2012.6400513
+1446,IV,Visualizing Patterns in Node-link Diagrams,2012,"Lambert, A., Queyroi, F., Bourqui, R.",10.1109/IV.2012.19
+960,IV,Everyday Life Discoveries: Mining and Visualizing Activity Patterns in Social Science Diary Data,2007,"Vrotsou, K., Ellegard, K., Cooper, M.",10.1109/IV.2007.48
+14,VAST,Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration,2017,"Behrisch, M., Bach, B., Hund, M., Delz, M., R?den, L. Von, Fekete, J. D., Schreck, T.",10.1109/TVCG.2016.2598467
+5168,IVI,Accommodating IPv6 Addresses in Security Visualization Tools,2010,"Barrera, David, van Oorschot, Paul C",10.1057/ivs.2010.9
+5497,EuroVis,Visual Analysis of Governing Topological Structures in Excitable Network Dynamics,2016,"Ngo, Quynh Quang, Hutt, Marc-Thorsten, Linsen, Lars",10.1111/cgf.12906
+1931,PacificVis,Dynamic network visualization in 1.5D,2011,"Shi, L., Wang, C., Wen, Zhen",10.1109/PACIFICVIS.2011.5742388
+5170,IVI,Visualizing Keyboard Pattern Passwords,2010,"Schweitzer, Dino, Boleng, Jeff, Hughes, Colin, Murphy, Louis",10.1057/ivs.2010.12
+321,SciVis,A Visual Analytics Approach to Multiscale Exploration of Environmental Time Series,2012,"Sips, M., Kothur, P., Unger, A., Hege, H.-C., Dransch, D.",10.1109/TVCG.2012.191
+5371,EuroVis,Interactive Visual Exploration of Local Patterns in Large Scatterplot Spaces,2018,"Chegini, Mohammad, Shao, Lin, Gregor, Robert, Lehmann, Dirk Joachim, Andrews, Keith, Schreck, Tobias",10.1111/cgf.13404
+2413,EuroVis,Visual Analysis of Time-Series Similarities for Anomaly Detection in Sensor Networks,2014,"Steiger, Martin, Bernard, Jurgen, Mittelstadt, Sebastian, Lucke-Tieke, Hendrik, Keim, Daniel, May, Thorsten, Kohlhammer, Jorn",10.1111/cgf.12396
+4151,IV,A Support Environment and a Trial Practice of Hacking Contest with Attack and Defense Style on a Game Website,2017,"Nakaya, M., Okawa, M., Nakajima, M., Tominaga, H.",10.1109/iV.2017.78
+43,VAST,Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths,2017,"Liu, Z., Wang, Y., Dontcheva, M., Hoffman, M., Walker, S., Wilson, A.",10.1109/TVCG.2016.2598797
+5495,EuroVis,BubbleNet: A Cyber Security Dashboard for Visualizing Patterns,2016,"McKenna, Sean, Staheli, Diane, Fulcher, Cody, Meyer, Miriah",10.1111/cgf.12904
+1305,IV,Visual Analysis of Overlapping Biological Networks,2009,"Fung, D.C.Y., Hong, Seok-Hee, Koschutzki, D., Schreiber, F., Xu, Kai",10.1109/IV.2009.55
+3265,Vis,GUIRO: User-Guided Matrix Reordering,2020,"Behrisch, M., Schreck, T., Pfister, H.",10.1109/TVCG.2019.2934300
+2440,EuroVis,Investigative Visual Analysis of Global Terrorism,2008,"Wang, Xiaoyu, Miller, Erin, Smarick, Kathleen, Ribarsky, William, Chang, Remco",10.1111/j.1467-8659.2008.01225.x
+3835,IV,Exploring Time-Series Through Force-Directed Timelines,2020,"Cruz, A., Arrais, J. P., Machado, P.",10.1109/IV51561.2020.00061
+5005,IVI,"Network Intrusion Visualization with NIVA, an Intrusion Detection Visual and Haptic Analyzer",2003,"Scott, Craig, Nyarko, Kofi, Capers, Tanya, Ladeji-Osias, Jumoke",10.1057/palgrave.ivs.9500044
+4909,journal,A Benchmark Dataset for Repetitive Pattern Recognition on Textured 3D Surfaces,2021,"Lengauer, Stefan, Sipiran, Ivan, Preiner, Reinhold, Schreck, Tobias, Bustos, Benjamin",https://doi.org/10.1111/cgf.14352
+4229,EuroVis,The State of the Art in Visualizing Multivariate Networks,2019,"Nobre, Carolina, Meyer, Miriah, Streit, Marc, Lex, Alexander",10.1111/cgf.13728
+3031,InfoVis,Structure-Based Suggestive Exploration: A New Approach for Effective Exploration of Large Networks,2019,"Chen, W., Guo, F., Han, D., Pan, J., Nie, X., Xia, J., Zhang, X.",10.1109/TVCG.2018.2865139
+1779,IV,Nugget Browser: Visual Subgroup Mining and Statistical Significance Discovery in Multivariate Datasets,2011,"Guo, Zhenyu, Ward, M.O., Rundensteiner, E.A.",10.1109/IV.2011.21
+1314,IV,Identifying Social Communities by Frequent Pattern Mining,2009,"Adnan, M., Alhajj, R., Rokne, J.",10.1109/IV.2009.49
+3381,VAST,DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks,2018,"Pezzotti, N., Hollt, T., Gemert, J. Van, Lelieveldt, B. P. F., Eisemann, E., Vilanova, A.",10.1109/TVCG.2017.2744358
+5668,VAST,Detecting Vehicular Patterns Using a Graph-Based Approach,2017,"Velampalli, S., Mookiah, L., Eberle, W.",10.1109/VAST.2017.8585667
+1735,IV,Design Patterns for Rapid Visualization Prototyping,2008,"Giereth, M., Ertl, T.",10.1109/IV.2008.36
+2998,VAST,Situ: Identifying and Explaining Suspicious Behavior in Networks,2019,"Goodall, J. R., Ragan, E. D., Steed, C. A., Reed, J. W., Richardson, G. D., Huffer, K. M. T., Bridges, R. A., Laska, J. A.",10.1109/TVCG.2018.2865029
+299,InfoVis,Multivariate Network Exploration and Presentation: From Detail to Overview via Selections and Aggregations,2014,"van den Elzen, S., van Wijk, J.J.",10.1109/TVCG.2014.2346441
+4539,EuroVis,Peax: Interactive Visual Pattern Search in Sequential Data Using Unsupervised Deep Representation Learning,2020,"Lekschas, Fritz, Peterson, Brant, Haehn, Daniel, Ma, Eric, Gehlenborg, Nils, Pfister, Hanspeter",https://doi.org/10.1111/cgf.13971
+5637,VAST,Pattern Trails: Visual Analysis of Pattern Transitions in Subspaces,2017,"Jackle, D., Hund, M., Behrisch, M., Keim, D. A., Schreck, T.",10.1109/VAST.2017.8585613
+2996,VAST,Vulnus: Visual Vulnerability Analysis for Network Security,2019,"Angelini, M., Blasilli, G., Catarci, T., Lenti, S., Santucci, G.",10.1109/TVCG.2018.2865028
+5643,VAST,Visualizing Real-Time Strategy Games: The Example of StarCraft II,2017,"Kuan, Y., Wang, Y., Chuang, J.",10.1109/VAST.2017.8585594
+4822,EuroVis,Exploring Multi-dimensional Data via Subset Embedding,2021,"Xie, Peng, Tao, Wenyuan, Li, Jie, Huang, Wentao, Chen, Siming",https://doi.org/10.1111/cgf.14290
+5687,VAST,VAST Challenge 2017: Mini-challenge 1,2017,"Zhang, S., Guo, D., Zhu, Y., Wang, D.",10.1109/VAST.2017.8585461
+156,InfoVis,Time Curves: Folding Time to Visualize Patterns of Temporal Evolution in Data,2016,"Bach, B., Shi, Conglei, Heulot, N., Madhyastha, T., Grabowski, T., Dragicevic, P.",10.1109/TVCG.2015.2467851
+642,journal,Visualizing Temporal Patterns in Large Multivariate Data using Modified Globbing,2008,"Glatter, M., Huang, J., Ahern, S., Daniel, J., Lu, Aidong",10.1109/TVCG.2008.184
+3661,journal,A Progressive Approach to Scalar Field Topology,2021,"Vidal, J., Guillou, P., Tierny, J.",10.1109/TVCG.2021.3060500
+4264,PacificVis,Visual Detection of Structural Changes in Time-Varying Graphs Using Persistent Homology,2018,"Hajij, M., Wang, B., Scheidegger, C., Rosen, P.",10.1109/PacificVis.2018.00024
+4192,InfoVis,Cluster and calendar based visualization of time series data,1999,"Wijk, J. J. Van, Selow, E. R. Van",10.1109/INFVIS.1999.801851
+100,VAST,Reducing Snapshots to Points: A Visual Analytics Approach to Dynamic Network Exploration,2016,"van den Elzen, S., Holten, D., Blaas, J., van Wijk, J.J.",10.1109/TVCG.2015.2468078
+5016,IVI,A fast feature vector approach for revealing simplex and equi-correlation data patterns in reorderable matrices,2016,"Guimaraes da Silva, Celmar, Medina, Bruno Figueiredo, Rodrigues da Silva, Maressa, Hitoshi Kawakami, Willian, Rocha, Miguel Mechi Naves",10.1177/1473871616666392
+2329,EuroVis,Topology-based Smoothing of 2D Scalar Fields with C1-Continuity,2010,"Weinkauf, Tino, Gingold, Yotam, Sorkine, Olga",10.1111/j.1467-8659.2009.01702.x
+2603,VAST,Interactive visual analysis of location reporting patterns,2009,"Overby, D., Keyser, J., Wall, J.",10.1109/VAST.2009.5333453
+2816,VAST,Pointwise local pattern exploration for sensitivity analysis,2011,"Guo, Zhenyu, Ward, M.O., Rundensteiner, E.A., Ruiz, C.",10.1109/VAST.2011.6102450
+2501,BioVis,Metrics for comparing explicit representations of interconnected biological networks,2011,"Mayerich, D., Bjornsson, C., Taylor, J., Roysam, B.",10.1109/BioVis.2011.6094051
+2896,VAST,Cell phone mini challenge award: Social network accuracy-- exploring temporal communication in mobile call graphs,2008,"Ye, Qi, Zhu, Tian, Hu, Deyong, Wu, Bin, Du, Nan, Wang, Bai",10.1109/VAST.2008.4677389
+811,SciVis,In Situ Exploration of Large Dynamic Networks,2011,"Hadlak, S., Schulz, H., Schumann, H.",10.1109/TVCG.2011.213
+4067,InfoVis,Multiscale visualization of small world networks,2003,"Auber, D., Chiricota, Y., Jourdan, F., Melancon, G.",10.1109/INFVIS.2003.1249011
+474,SciVis,Visualizing Network Traffic to Understand the Performance of Massively Parallel Simulations,2012,"Landge, A.G., Levine, J.A., Bhatele, A., Isaacs, K.E., Gamblin, T., Schulz, M., Langer, S.H., Bremer, P.-T., Pascucci, V.",10.1109/TVCG.2012.286
+1549,IV,Revealing Subnetwork Roles using Contextual Visualization: Comparison of Metabolic Networks,2008,"Bourqui, R., Jourdan, F.",10.1109/IV.2008.93
+4279,PacificVis,A Study of Mental Maps in Immersive Network Visualization,2020,"Kotlarek, J., Kwon, O., Ma, K., Eades, P., Kerren, A., Klein, K., Schreiber, F.",10.1109/PacificVis48177.2020.4722
+2975,VAST,Shape grammar extraction for efficient query-by-sketch pattern matching in long time series,2016,"Muthumanickam, P. K., Vrotsou, K., Cooper, M., Johansson, J.",10.1109/VAST.2016.7883518
+4983,IVI,Patterns for visualization evaluation,2013,"Elmqvist, Niklas, Yi, Ji Soo",10.1177/1473871613513228
+2711,VAST,An insight- and task-based methodology for evaluating spatiotemporal visual analytics,2014,"Gomez, S.R., Guo, Hua, Ziemkiewicz, C., Laidlaw, D.H.",10.1109/VAST.2014.7042482
+5601,VAST,SMARTexplore: Simplifying High-Dimensional Data Analysis through a Table-Based Visual Analytics Approach,2018,"Blumenschein, M., Behrisch, M., Schmid, S., Butscher, S., Wahl, D. R., Villinger, K., Renner, B., Reiterer, H., Keim, D. A.",10.1109/VAST.2018.8802486
+4271,PacificVis,Visualizing Deep Neural Networks for Text Analytics,2018,"Nie, S., Healey, C., Padia, K., Leeman-Munk, S., Benson, J., Caira, D., Sethi, S., Devarajan, R.",10.1109/PacificVis.2018.00031
+1830,PacificVis,Visualization and analysis of email networks,2007,"Fu, Xiaoyan, Hong, Seok-Hee, Nikolov, N.S., Shen, Xiaobin, Wu, Yingxin, Xu, K.",10.1109/APVIS.2007.329302
+106,VAST,VA<sup>2</sup>: A Visual Analytics Approach for Evaluating Visual Analytics Applications,2016,"Blascheck, T., John, M., Kurzhals, K., Koch, S., Ertl, T.",10.1109/TVCG.2015.2467871
+3507,journal,PassVizor: Toward Better Understanding of the Dynamics of Soccer Passes,2021,"Xie, X., Wang, J., Liang, H., Deng, D., Cheng, S., Zhang, H., Chen, W., Wu, Y.",10.1109/TVCG.2020.3030359
+1781,IV,Using Visual Analysis to Weight Multiple Signatures to Discriminate Complex Data,2011,"Bueno, R., Kaster, D.S., Razente, H.L., Barioni, M.C.N., Traina, A. J M, Traina, C.",10.1109/IV.2011.59
+5571,VAST,FDive: Learning Relevance Models Using Pattern-based Similarity Measures,2019,"Dennig, F. L., Polk, T., Lin, Z., Schreck, T., Pfister, H., Behrisch, M.",10.1109/VAST47406.2019.8986940
+425,InfoVis,Generalized Topological Simplification of Scalar Fields on Surfaces,2012,"Tierny, J., Pascucci, V.",10.1109/TVCG.2012.228
+2577,VAST,Geovisual analytics for self-organizing network data,2009,"Quan, Ho Van, Astrom, T., Jern, M.",10.1109/VAST.2009.5332610
+3393,VAST,Graphiti: Interactive Specification of Attribute-Based Edges for Network Modeling and Visualization,2018,"Srinivasan, A., Park, H., Endert, A., Basole, R. C.",10.1109/TVCG.2017.2744843
+3891,IV,"Smoothed Multiple Binarization -- Using PQR Tree, Smoothing, Feature Vectors and Thresholding for Matrix Reordering",2016,"Medina, B. F., Kawakami, W. H., Silva, M. R. da, Silva, C. G. da",10.1109/IV.2016.22
+2940,VAST,[COMM]gregater: A toolset for temporal communication patterns and dynamic network structure,2015,"Tang, Hui, Pan, Chao, Yu, Bing, Du, Weidan, Wei, Shuang, Li, Mingran, Guo, Chen, Cheng, Longjie, Hu, Kai, Zhang, Rongrong, Li, Xinzhe, Chen, YingJie Victor, Qian, Zhenyu Cheryl, Zhu, Yu Michael",10.1109/VAST.2015.7347666
+4057,InfoVis,Visual unrolling of network evolution and the analysis of dynamic discourse,2002,"Brandes, U., Corman, S. R.",10.1109/INFVIS.2002.1173160
+3226,journal,Topology-Constrained Shape Correspondence,2020,"Li, X., Wen, C., Wang, L., Fang, Y.",10.1109/TVCG.2020.2994013
+5246,IVI,Science of Analytical Reasoning,2009,"Ribarsky, William, Fisher, Brian, Pottenger, William M.",10.1057/ivs.2009.28
+181,SciVis,Multi-field Pattern Matching based on Sparse Feature Sampling,2016,"Wang, Zhongjie, Seidel, H.-P., Weinkauf, T.",10.1109/TVCG.2015.2467292
+465,InfoVis,Multivariate Data Analysis Using Persistence-Based Filtering and Topological Signatures,2012,"Rieck, B., Mara, H., Leitte, H.",10.1109/TVCG.2012.248
+3665,journal,Net2Vis - A Visual Grammar for Automatically Generating Publication-Ready CNN Architecture Visualizations,2021,"Bauerle, A., Onzenoodt, C. Van, Ropinski, T.",10.1109/TVCG.2021.3057483
+3323,Vis,AirVis: Visual Analytics of Air Pollution Propagation,2020,"Deng, Z., Weng, D., Chen, J., Liu, R., Wang, Z., Bao, J., Zheng, Y., Wu, Y.",10.1109/TVCG.2019.2934670
+1553,IV,Multivariate Network Exploration with JauntyNets,2013,"Jusufi, I., Kerren, A., Zimmer, B.",10.1109/IV.2013.3
+1885,PacificVis,Visual Statistics for Collections of Clustered Graphs,2008,"Brandes, U., Lerner, J., Lubbers, M.J., McCarty, C., Molina, J.L.",10.1109/PACIFICVIS.2008.4475458
+3028,InfoVis,Comparing Similarity Perception in Time Series Visualizations,2019,"Gogolou, A., Tsandilas, T., Palpanas, T., Bezerianos, A.",10.1109/TVCG.2018.2865077
+370,VAST,Supporting the Visual Analysis of Dynamic Networks by Clustering associated Temporal Attributes,2013,"Hadlak, S., Schumann, H., Cap, C.H., Wollenberg, T.",10.1109/TVCG.2013.198
+2908,VAST,EgoNetCloud: Event-based egocentric dynamic network visualization,2015,"Liu, Qingsong, Hu, Yifan, Shi, Lei, Mu, Xinzhu, Zhang, Yutao, Tang, Jie",10.1109/VAST.2015.7347632
+2060,PacificVis,Bridging the Gap of Network Management and Anomaly Detection through Interactive Visualization,2014,"Zhang, Tao, Liao, Qi, Shi, Lei",10.1109/PacificVis.2014.22
+5056,IVI,Integrated visual analysis of patterns in time series and text data - Workflow and application to financial data analysis,2015,"Wanner, Franz, Jentner, Wolfgang, Schreck, Tobias, Stoffel, Andreas, Sharalieva, Lyubka, Keim, Daniel A",10.1177/1473871615576925
+553,journal,Topological Landscapes: A Terrain Metaphor for Scientific Data,2007,"Weber, G.H., Bremer, P.-T., Pascucci, V.",10.1109/TVCG.2007.70601
+2531,VAST,Interactive querying of temporal data using a comic strip metaphor,2010,"Jin, Jing, Szekely, P.",10.1109/VAST.2010.5652890
+114,VAST,Temporal MDS Plots for Analysis of Multivariate Data,2016,"Ja@ckle, D., Fischer, F., Schreck, T., Keim, D.A.",10.1109/TVCG.2015.2467553
+4066,InfoVis,Visualizing evolving networks: minimum spanning trees versus pathfinder networks,2003,"Chen, Chaomei, Morris, S.",10.1109/INFVIS.2003.1249010
+5263,IVI,Towards a taxonomy of movement patterns,2008,"Dodge, Somayeh, Weibel, Robert, Lautenschutz, Anna-Katharina",10.1057/palgrave.ivs.9500182
+1997,PacificVis,Reordering Massive Sequence Views: Enabling temporal and structural analysis of dynamic networks,2013,"van den Elzen, S., Holten, D., Blaas, J., van Wijk, J.J.",10.1109/PacificVis.2013.6596125
+1593,IV,Visual Analysis of Complex Networks for Business Intelligence with Gephi,2013,"Heymann, S., Le Grand, B.",10.1109/IV.2013.39
+5012,IVI,Visual Unrolling of Network Evolution and the Analysis of Dynamic Discourse,2003,"Brandes, Ulrik, Corman, Steven R.",10.1057/palgrave.ivs.9500037
+5154,IVI,Kaleidomaps: A New Technique for the Visualization of Multivariate Time-Series Data,2007,"Bale, Kim, Chapman, Paul, Barraclough, Nick, Purdy, Jon, Aydin, Nizamettin, Dark, Paul",10.1057/palgrave.ivs.9500154

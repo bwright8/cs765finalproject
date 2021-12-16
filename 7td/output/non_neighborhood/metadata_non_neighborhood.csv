@@ -1,0 +1,102 @@
+id,conference,title,year,authors,doi
+501,SciVis,RelEx: Visualization for Actively Changing Overlay Network Specifications,2012,"Sedlmair, M., Frank, A., Munzner, T., Butz, A.",10.1109/TVCG.2012.255
+2017,PacificVis,A visual analytics approach to exploring protein flexibility subspaces,2013,"Barlowe, S., Yang, Jing, Jacobs, D.J., Livesay, D.R., Alsakran, J., Zhao, Ye, Verma, D., Mottonen, J.",10.1109/PacificVis.2013.6596145
+647,journal,Interactive Volume Exploration for Feature Detection and Quantification in Industrial CT Data,2008,"Hadwiger, M., Laura, F., Rezk-Salama, C., Hollt, T., Geier, G., Pabel, T.",10.1109/TVCG.2008.147
+5370,EuroVis,Visualizing Expanded Query Results,2018,"Mazurek, Michael, Waldner, Manuela",10.1111/cgf.13403
+3869,IV,Human-Machine Teaming in Music: anchored narrative-graph Visualization and Machine Learning,2020,"Benevento, G., De Prisco, R., Guarino, A., Lettieri, N., Malandrino, D., Zaccagnino, R.",10.1109/IV51561.2020.00095
+2626,VAST,VAST 2009 Traffic Mini Challenge: Intuitive analytic information presentation,2009,"Agrawal, S., Sravanthi, K., Vadapalli, S., Karlapalem, K.",10.1109/VAST.2009.5334301
+3,SciVis,Progressive Direct Volume-to-Volume Transformation,2017,"Frey, S., Ertl, T.",10.1109/TVCG.2016.2599042
+270,InfoVis,"Domino: Extracting, Comparing, and Manipulating Subsets Across Multiple Tabular Datasets",2014,"Gratzl, S., Gehlenborg, N., Lex, A., Pfister, H., Streit, M.",10.1109/TVCG.2014.2346260
+3238,journal,Vector Field Decompositions using Multiscale Poisson Kernel,2020,"Bhatia, H., Kirby, R. M., Pascucci, V., Bremer, P. -T.",10.1109/TVCG.2020.2984413
+3651,journal,Improving Visualisation Design for Effective Multi-Objective Decision Making,2021,"Dy, B., Nazim, I., Poorthuis, A., Joyce, S. C.",10.1109/TVCG.2021.3065126
+862,journal,Quantitative Texton Sequences for Legible Bivariate Maps,2009,"Ware, C.",10.1109/TVCG.2009.175
+3147,journal,Understanding Missing Links in Bipartite Networks with MissBiN,2020,"Zhao, J., Sun, M., Chen, F., Chui, P.",10.1109/TVCG.2020.3032984
+4222,InfoVis,The generalized detail in-context problem,1998,"Keahey, T. A.",10.1109/INFVIS.1998.729558
+4227,EuroVis,State-of-the-Art Report: Visual Computing in Radiation Therapy Planning,2019,"Schlachter, Matthias, Raidou, Renata Georgia, Muren, Ludvig P., Preim, Bernhard, Putora, Paul Martin, Buhler, Katja",10.1111/cgf.13726
+3979,InfoVis,An Experimental Investigation of Magnification Lens Offset and Its Impact on Imagery Analysis,2004,"Darling, E., Newbern, C., Kalghatgi, N., Burgman, A., Recktenwald, K.",10.1109/INFVIS.2004.6
+3139,journal,VR Disability Simulation Reduces Implicit Bias Towards Persons with Disabilities,2019,"Chowdhury, T. I., Ferdous, S. M. Shahnewaz, Quarles, J.",10.1109/TVCG.2019.2958332
+1191,IV,"Conferences, Coffee and Complexity: Supporting Cognition and Communication at Conventions",2014,"Windhager, F., Smuc, M., Zenk, L.",10.1109/IV.2014.63
+1976,PacificVis,Visual 4D MRI blood flow analysis with line predicates,2012,"Born, S., Pfeifle, M., Markl, M., Scheuermann, G.",10.1109/PacificVis.2012.6183580
+3528,journal,"StackGenVis: Alignment of Data, Algorithms, and Models for Stacking Ensemble Learning Using Performance Metrics",2021,"Chatzimparmpas, A., Martins, R. M., Kucher, K., Kerren, A.",10.1109/TVCG.2020.3030352
+2676,VAST,"Visual analytics for situation awareness of a large-scale network: VAST 2012 Mini Challenge #1 award: ""Effective video presentation@",2012,"Horn, Chris, Ellsworth, Chris",10.1109/VAST.2012.6400525
+5323,EuroVis,Learning Probabilistic Transfer Functions: A Comparative Study of Classifiers,2015,"Soundararajan, Krishna Prasad, Schultz, Thomas",10.1111/cgf.12623
+1841,PacificVis,Navigation techniques for 2.5D graph layout,2007,"Ahmed, A., Hong, Seok-Hee",10.1109/APVIS.2007.329279
+3451,SciVis,The Topology ToolKit,2018,"Tierny, J., Favelier, G., Levine, J. A., Gueunet, C., Michaux, M.",10.1109/TVCG.2017.2743938
+942,IV,Visually Mining the Datacube using a Pixel-Oriented Technique,2007,"Auber, D., Novelli, N., Melancon, G.",10.1109/IV.2007.140
+5126,IVI,Visualizing offscreen elements of node-link diagrams,2013,"Frisch, Mathias, Dachselt, Raimund",10.1177/1473871612473589
+3801,IV,A Visual-Interactive Idiom to Diagnose Missing Data Mechanisms,2020,"Lima, R. S. do Amor Divino, de Araujo, T. Davi Oliveira, Santos, C. G. Resque dos, Meiguins, B. Serique",10.1109/IV51561.2020.00027
+5425,EuroVis,Oui! Outlier Interpretation on Multi-dimensional Data via Visual Analytics,2019,"Zhao, Xun, Cui, Weiwei, Wu, Yanhong, Zhang, Haidong, Qu, Huamin, Zhang, Dongmei",10.1111/cgf.13683
+1580,IV,Graph-Based Relational Data Visualization,2013,"De Lima, D.M., Rodrigues, J.F., Machado Traina, A.J.",10.1109/IV.2013.28
+3885,IV,Lyrics Word Clouds,2016,"Burch, M., Fluck, T., Freund, J., Walzer, T., Kloos, U., Weiskopf, D.",10.1109/IV.2016.27
+5143,IVI,Interactive Wormhole Detection and Evaluation,2007,"Wang, Weichao, Lu, Aidong",10.1057/palgrave.ivs.9500144
+3806,IV,Exploring air quality using a multiple spatial resolution dashboard -- a case study in Lisbon,2020,"Taborda, R., Datin, N., Pato, M. P. M., Pires, J. M.",10.1109/IV51561.2020.00032
+3468,SciVis,StreetVizor: Visual Exploration of Human-Scale Urban Forms Based on Street Views,2018,"Shen, Q., Zeng, W., Ye, Y., Arisona, S. M., Schubiger, S., Burkhard, R., Qu, H.",10.1109/TVCG.2017.2744159
+5257,IVI,Visual Data Mining of Multimedia Data for Social and Behavioral Studies,2009,"Yu, Chen, Zhong, Yiwen, Smith, Thomas, Park, Ikhyun, Huang, Weixia",10.1057/ivs.2008.32
+2040,PacificVis,Improved Optimal and Approximate Power Graph Compression for Clearer Visualisation of Dense Graphs,2014,"Dwyer, T., Mears, C., Morgan, K., Niven, T., Marriott, K., Wallace, M.",10.1109/PacificVis.2014.46
+1826,IV,Some Drivers towards 3D Digital Master-Plan Visualisation in the UK,2011,"Counsell, J.",10.1109/IV.2011.81
+446,InfoVis,Visualization of Flow Behavior in Earth Mantle Convection,2012,"Schroder, S., Peterson, J.A., Obermaier, H., Kellogg, L.H., Joy, K.I., Hagen, H.",10.1109/TVCG.2012.283
+1836,PacificVis,Labeling collinear sites,2007,"Bekos, M.A., Kaufmann, M., Symvonis, A.",10.1109/APVIS.2007.329274
+4674,journal,Memory-Efficient Bijective Parameterizations of Very-Large-Scale Models,2020,"Ye, Chunyang, Su, Jian-Ping, Liu, Ligang, Fu, Xiao-Ming",https://doi.org/10.1111/cgf.14122
+2617,VAST,Integrative visual analytics for suspicious behavior detection,2009,"Bak, P., Rohrdantz, C., Leifert, S., Granacher, C., Koch, S., Butscher, S., Jungk, P., Keim, D.A.",10.1109/VAST.2009.5334430
+3252,Vis,Supporting Analysis of Dimensionality Reduction Results with Contrastive Learning,2020,"Fujiwara, T., Kwon, O., Ma, K.",10.1109/TVCG.2019.2934251
+637,journal,Continuous Scatterplots,2008,"Bachthaler, S., Weiskopf, D.",10.1109/TVCG.2008.119
+5439,EuroVis,ChronoCorrelator: Enriching Events with Time Series,2019,"Dortmont, Martijn A.M.M. van, Elzen, Stef van den, Wijk, Jarke J. van",10.1111/cgf.13697
+3639,journal,A Design Space of Vision Science Methods for Visualization Research,2021,"Elliott, M. A., Nothelfer, C., Xiong, C., Szafir, D. A.",10.1109/TVCG.2020.3029413
+5578,VAST,HeatMosaic: Interactive Uncertainty Analysis of Disaster Events - 2019 VAST Challenge Honorable Mention Award for Visualization of Uncertainty,2019,"Wu, W., Zhou, Z., Chen, Y. V., Qian, Z. C.",10.1109/VAST47406.2019.8986930
+4187,InfoVis,"The sunflower visual metaphor, a new paradigm for dimensional compression",1999,"Rose, S. J.",10.1109/INFVIS.1999.801868
+2864,VAST,Configurable Spaces: Temporal analysis in diagrammatic contexts,2008,"Kapler, T., Eccles, R., Harper, R., Wright, W.",10.1109/VAST.2008.4677355
+377,InfoVis,"Interactive Visualizations on Large and Small Displays: The Interrelation of Display Size, Information Space, and Scale",2013,"Jakobsen, M.R., Hornbaek, K.",10.1109/TVCG.2013.170
+5275,IVI,Design Considerations for Collaborative Visual Analytics,2008,"Heer, Jeffrey, Agrawala, Maneesh",10.1057/palgrave.ivs.9500167
+1252,IV,A Comparison of Methods for Visualizing Musical Genres,2012,"Holm, J., Siirtola, H.",10.1109/IV.2012.107
+2393,EuroVis,Comparative Exploration of Document Collections: a Visual Analytics Approach,2014,"Oelke, D., Strobelt, H., Rohrdantz, C., Gurevych, I., Deussen, O.",10.1111/cgf.12376
+3752,IV,"Visualising data for industrial heritage reuse studies: a case in Chongqing, China",2020,"Chen, J.",10.1109/IV51561.2020.00105
+3587,journal,TopoMap: A 0-dimensional Homology Preserving Projection of High-Dimensional Data,2021,"Doraiswamy, H., Tierny, J., Silva, P. J. S., Nonato, L. G., Silva, C.",10.1109/TVCG.2020.3030441
+2810,VAST,Visual social network analytics for relationship discovery in the enterprise,2011,"Perer, A., Guy, I., Uziel, E., Ronen, I., Jacovi, M.",10.1109/VAST.2011.6102443
+1679,IV,PEx-WEB: Content-based Visualization of Web Search Results,2008,"Paulovich, F.V., Pinho, R., Botha, C.P., Heijs, A., Minghim, R.",10.1109/IV.2008.94
+142,InfoVis,Sketching Designs Using the Five Design-Sheet Methodology,2016,"Roberts, J.C., Headleand, C., Ritsos, P.D.",10.1109/TVCG.2015.2467271
+2968,VAST,How ideas flow across multiple social groups,2016,"Wang, X., Liu, S., Chen, Y., Peng, T. Q., Su, J., Yang, J., Guo, B.",10.1109/VAST.2016.7883511
+3265,Vis,GUIRO: User-Guided Matrix Reordering,2020,"Behrisch, M., Schreck, T., Pfister, H.",10.1109/TVCG.2019.2934300
+3368,prologue,Preface: Message from the VIS Paper Chairs and Guest Editors,2018,"Dwyer, T., Elmqvist, N., Fisher, B., Franconeri, S., Hotz, I., Kirby, R. M. M., Liu, S., Schreck, T., Yuan, X.",10.1109/TVCG.2017.2752518
+1334,IV,Regeneration of the Traditional Folding Screen as Media Art,2009,"Lee, JuHyun, Kawaguchi, Y.",10.1109/IV.2009.90
+730,journal,Visual Human+Machine Learning,2009,"Fuchs, R., Waser, J., Groller, M.E.",10.1109/TVCG.2009.199
+4406,PacificVis,GitViz: An Interactive Visualization System for Analyzing Development Trends in the Open-Source Software Community,2019,"Park, C., Do, S., Lee, E., Jang, H., Jung, S., Han, H., Lee, K.",10.1109/PacificVis.2019.00028
+4209,InfoVis,An operator interaction framework for visualization systems,1998,"Chi, Ed Huai-Hsin, Riedl, J. T.",10.1109/INFVIS.1998.729560
+1209,IV,DataTube4log: A Visual Tool for Mining Multi-threaded Software Logs,2014,"Devaux, S., Bouali, F., Venturini, G.",10.1109/IV.2014.73
+929,journal,Exploration and Visualization of Segmentation Uncertainty using Shape and Appearance Prior Information,2010,"Saad, A., Hamarneh, G., Moller, T.",10.1109/TVCG.2010.152
+2166,EuroVis,Synthetic Brainbows,2013,"Wan, Y., Otsuna, H., Hansen, C.",10.1111/cgf.12134
+873,journal,"High-Quality, Semi-Analytical Volume Rendering for AMR Data",2009,"Marchesin, S., de Verdiere, G.C.",10.1109/TVCG.2009.149
+4714,journal,Not All Areas Are Equal: A Novel Separation-Restoration-Fusion Network for Image Raindrop Removal,2020,"Ren, Dongdong, Li, Jinbao, Han, Meng, Shu, Minglei",https://doi.org/10.1111/cgf.14162
+3477,Vis,High-Quality Textured 3D Shape Reconstruction with Cascaded Fully Convolutional Networks,2021,"Liu, Z. -N., Cao, Y. -P., Kuang, Z. -F., Kobbelt, L., Hu, S. -M.",10.1109/TVCG.2019.2937300
+1070,IV,Self-Organizing Map-Based Feature Visualization and Selection for Defect Depth Estimation in Oil and Gas Pipelines,2015,"Mohamed, A., Hamdi, M.S., Tahar, S.",10.1109/iV.2015.50
+2717,VAST,HydroQual: Visual analysis of river water quality,2014,"Accorsi, P., Lalande, N., Fabregue, M., Braud, A., Poncelet, P., Sallaberry, A., Bringay, S., Teisseire, M., Cernesson, F., Le Ber, F.",10.1109/VAST.2014.7042488
+4258,PacificVis,Access Pattern Learning with Long Short-Term Memory for Parallel Particle Tracing,2018,"Hong, F., Zhang, J., Yuan, X.",10.1109/PacificVis.2018.00018
+3090,SciVis,Hexahedral Mesh Structure Visualization and Evaluation,2019,"Xu, K., Chen, G.",10.1109/TVCG.2018.2864827
+1309,IV,Visualisation of Client Networks from a Large Database,2009,"Bossomaier, T., Standish, R.K., Harre, M.",10.1109/IV.2009.77
+1452,IV,Visualizing the Evolution of Software Systems Using the Forest Metaphor,2012,"Erra, U., Scanniello, G., Capece, N.",10.1109/IV.2012.25
+1276,IV,Evaluation of Overcluttering Prevention Techniques for Mobile Devices,2009,"Pombinho, P., Carmo, M.B., Afonso, A.P.",10.1109/IV.2009.51
+1603,IV,Magic Squares and Aesthetic Events,2013,"Fang, You, Dehlinger, H., Min, Wang Jian, Ming, Yao",10.1109/IV.2013.49
+1656,IV,A Visualization Model for Information Resources Management,2008,"Ning, Zhou, Jiaxin, Wu, Bing, Wang, Shaolong, Zhang",10.1109/IV.2008.105
+2575,VAST,Finding comparable temporal categorical records: A similarity measure with an interactive visualization,2009,"Wongsuphasawat, K., Shneiderman, B.",10.1109/VAST.2009.5332595
+672,journal,AD-Frustum: Adaptive Frustum Tracing for Interactive Sound Propagation,2008,"Chandak, A., Lauterbach, C., Taylor, M., Ren, Zhimin, Manocha, D.",10.1109/TVCG.2008.111
+5657,VAST,Interactive and Collaborative Visual Analysis on Traffic Sensor Data,2017,"Lai, C., Liu, Q., Feng, L., Yue, C., Chen, X., Hu, Y., Wang, Z., Teng, P., Yuan, X.",10.1109/VAST.2017.8585432
+3955,InfoVis,"Steerable, Progressive Multidimensional Scaling",2004,"Williams, M., Munzner, T.",10.1109/INFVIS.2004.60
+4974,IVI,"Ploceus: Modeling, visualizing, and analyzing tabular data as networks",2013,"Liu, Zhicheng, Navathe, Shamkant B, Stasko, John T",10.1177/1473871613488591
+1418,IV,Molecular Rendering with Medieval and Renaissance Color Theory,2010,"Marchese, F.T., Marchese, S.M.",10.1109/IV.2010.74
+1627,IV,Using a Serious Game Approach to Teach 'Operator Precedence' to Introductory Programming Students,2013,"Adamo-Villani, N., Haley-Hermiz, T., Cutler, R.",10.1109/IV.2013.70
+3949,InfoVis,User Experiments with Tree Visualization Systems,2004,"Kobsa, A.",10.1109/INFVIS.2004.70
+5581,VAST,Visual Analysis of Multivariate Time Series of Static and Mobile Sensors,2019,"Hu, Y., Ma, Q., Chen, Y., Chen, H., Jin, W., Ye, F.",10.1109/VAST47406.2019.8986910
+2485,BioVis,VisNEST -- Interactive analysis of neural activity data,2013,"Nowke, C., Schmidt, M., van Albada, S.J., Eppler, J.M., Bakker, R., Diesrnann, M., Hentschel, B., Kuhlen, T.",10.1109/BioVis.2013.6664348
+2360,EuroVis,Visualization Techniques for Schedule Comparison,2009,"Huang, Dandan, Tory, Melanie, Staub-French, Sheryl, Pottinger, Rachel",10.1111/j.1467-8659.2009.01441.x
+657,journal,Novel interaction techniques for neurosurgical planning and stereotactic navigation,2008,"Joshi, A., Scheinost, D., Vives, K.P., Spencer, D.D., Staib, L.H., Papademetris, X.",10.1109/TVCG.2008.150
+2045,PacificVis,Tensor Visualization Driven Mechanical Component Design,2014,"Kratz, A., Schoeneich, M., Zobel, V., Burgeth, B., Scheuermann, G., Hotz, I., Stommel, M.",10.1109/PacificVis.2014.51
+3562,journal,PlotThread: Creating Expressive Storyline Visualizations using Reinforcement Learning,2021,"Tang, T., Li, R., Wu, X., Liu, S., Knittel, J., Koch, S., Ertl, T., Yu, L., Ren, P., Wu, Y.",10.1109/TVCG.2020.3030467
+3561,journal,Objective Observer-Relative Flow Visualization in Curved Spaces for Unsteady 2D Geophysical Flows,2021,"Rautek, P., Mlejnek, M., Beyer, J., Troidl, J., Pfister, H., TheuSl, T., Hadwiger, M.",10.1109/TVCG.2020.3030454
+531,journal,Animated Transitions in Statistical Data Graphics,2007,"Heer, J., Robertson, G.G.",10.1109/TVCG.2007.70539
+2849,VAST,ScatterBlogs: Geo-spatial document analysis,2011,"Bosch, H., Thom, D., Worner, M., Koch, S., Puttmann, E., Jackle, D., Ertl, T.",10.1109/VAST.2011.6102488
+4150,IV,Metasystems Learning Design Theory on Information Visualization,2017,"Railean, E.",10.1109/iV.2017.80
+5448,EuroVis,Analysis of Decadal Climate Predictions with User-guided Hierarchical Ensemble Clustering,2019,"Kappe, Christopher P., Bottinger, Michael, Leitte, Heike",10.1111/cgf.13706
+5371,EuroVis,Interactive Visual Exploration of Local Patterns in Large Scatterplot Spaces,2018,"Chegini, Mohammad, Shao, Lin, Gregor, Robert, Lehmann, Dirk Joachim, Andrews, Keith, Schreck, Tobias",10.1111/cgf.13404
+2912,VAST,Urbane: A 3D framework to support data driven decision making in urban development,2015,"Ferreira, N., Lage, M., Doraiswamy, H., Vo, Huy, Wilson, L., Werner, H., Park, M., Silva, C.",10.1109/VAST.2015.7347636
+5106,IVI,Toward a deeper understanding of the relationship between interaction constraints and visual isomorphs,2012,"Dou, Wenwen, Ziemkiewicz, Caroline, Harrison, Lane, Jeong, Dong Hyun, Ribarsky, William, Wang, Xiaoyu, Chang, Remco",10.1177/1473871611433712
+1658,IV,Comparing Information Visualization Tools Focusing on the Temporal Dimensions,2008,"Wohlfart, E., Aigner, W., Bertone, A., Miksch, S.",10.1109/IV.2008.104
+5176,IVI,SafeRoadMaps: Communication of Location and Density of Traffic Fatalities through Spatial Visualization and Heat Map Analysis,2010,"Hilton, Brian N., Horan, Thomas A., Burkhard, Richard, Schooley, Benjamin",10.1057/ivs.2010.14
